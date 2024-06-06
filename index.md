@@ -48,3 +48,4 @@ Dublin Institute of Technology – Distinction
 - Fishing
 - Travelling
 - Cooking
+theme: jekyll-theme-minimal
